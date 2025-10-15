@@ -1,2 +1,1 @@
-# coding-test-solutions
-코딩 테스트 연습 repo
+# 안녕하세요! janghyunwoo2의 프로젝트입니다.
