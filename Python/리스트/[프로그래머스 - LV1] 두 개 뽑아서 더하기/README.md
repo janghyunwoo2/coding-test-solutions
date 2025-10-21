@@ -38,8 +38,7 @@
 
 
 3.  **코드 구현 및 테스트& 디버깅**:
-    *   solution.ipynb
-    - Python\리스트\[프로그래머스 - LV1] 두 개 뽑아서 더하기\solution.ipynb
+    - [코드 구현](https://github.com/janghyunwoo2/coding-test-solutions/blob/main/Python/%EB%A6%AC%EC%8A%A4%ED%8A%B8/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20-%20LV1%5D%20%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0/solution.ipynb)
 
 
 4.  **피드백**:
