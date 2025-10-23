@@ -1,7 +1,7 @@
 # [프로그래머스] 모의고사 / [LV.1]
 
 - **[문제 링크] https://school.programmers.co.kr/learn/courses/30/lessons/42840**
-- **날짜:** 2025.10.
+- **날짜:** 2025.10.22
 - **사용한 언어:** Python
 
 ## 🔍 문제 요약
