@@ -1,0 +1,21 @@
+## [프로그래머스 - LV1] 이름
+
+- https://
+- **날짜:** 2025.10.
+- **사용한 언어:** MySQL
+
+## 🔍 문제 요약
+
+> 
+
+## 💡 핵심 아이디어 / 접근 방식
+
+- 
+
+## 💻 코드
+
+```sql
+select ANIMAL_ID, NAME from ANIMAL_INS
+where INTAKE_CONDITION = 'Sick'
+
+```
