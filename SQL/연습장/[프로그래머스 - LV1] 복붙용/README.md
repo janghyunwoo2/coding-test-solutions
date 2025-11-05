@@ -1,6 +1,6 @@
-## [프로그래머스 - LV2] NULL 처리하기
+## [프로그래머스 - LV2] 카테고리 별 상품 개수 구하기
 
-- https://school.programmers.co.kr/learn/courses/30/lessons/59410
+- https://school.programmers.co.kr/learn/courses/30/lessons/131529
 - **날짜:** 2025.11.05
 - **사용한 언어:** MySQL
 
