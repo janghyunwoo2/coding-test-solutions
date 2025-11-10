@@ -6,7 +6,8 @@
 
 ## 🔍 다시 풀어 볼 문제
     ```
-        
+    - https://school.programmers.co.kr/learn/courses/30/lessons/120903 배열의 유사도 - 최적화해서 풀어보기
+    - https://school.programmers.co.kr/learn/courses/30/lessons/120836 *순서쌍의 개수 - 최적화
     ```
 
 ## 💡 피드백
