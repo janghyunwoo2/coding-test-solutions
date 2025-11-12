@@ -6,10 +6,21 @@
 
 ## 🔍 다시 풀어 볼 문제
     ```
-    - https://school.programmers.co.kr/learn/courses/30/lessons/120903 배열의 유사도 - 최적화해서 풀어보기
-    - https://school.programmers.co.kr/learn/courses/30/lessons/120836 *순서쌍의 개수 - 최적화해서 풀어보기
-    - https://school.programmers.co.kr/learn/courses/30/lessons/120818 옷가게 할인 받기 - 딕셔너리로 풀어보기
-    - https://school.programmers.co.kr/learn/courses/30/lessons/120845 주사위의 개수 - map,lambda 사용해서 풀어보기
+    https://school.programmers.co.kr/learn/courses/30/lessons/120903 
+    배열의 유사도 - 최적화해서 풀어보기
+
+    https://school.programmers.co.kr/learn/courses/30/lessons/120836
+    *순서쌍의 개수 - 최적화해서 풀어보기
+    
+    https://school.programmers.co.kr/learn/courses/30/lessons/120818 
+    옷가게 할인 받기 - 딕셔너리로 풀어보기
+
+    https://school.programmers.co.kr/learn/courses/30/lessons/120845 
+    주사위의 개수 - map,lambda 사용해서 풀어보기
+
+    https://school.programmers.co.kr/learn/courses/30/lessons/120862
+    *최댓값 만들기 - 편법이 사용해서 풀기(이중 for x)
+
     ```
 
 ## 💡 피드백
