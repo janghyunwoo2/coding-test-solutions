@@ -24,7 +24,8 @@
     https://school.programmers.co.kr/learn/courses/30/lessons/120895
     인덱스 바꾸기 - 파이썬 답게 swap해보기 
 
-    https://school.programmers.co.kr/learn/courses/30/lessons/181906
+    https://school.programmers.co.kr/learn/courses/30/lessons/181854
+    배열의 길이에 따라 다른 연산하기 - 최적화해서 풀어보기
     ```
 
 ## 💡 피드백
@@ -32,12 +33,16 @@
     ```
     filter(조건,리스트) : 리스트를 조건에 맞는 것만 남기는 역할(요소값 변경x)
     map(조건,리스트) : 리스트를 조건에 맞게 바꿔주는 역할(요소값 변경0)
+    ```
 
-
+* ### str.replace
+    ```
+    replace는 원본을 바꾸지 않음. sorted()처럼 변수에 대입해 줘야한다
     ```
 
     
-
+### 체크 포인트
+* 5페이지 끝까지 품
 
 
 
