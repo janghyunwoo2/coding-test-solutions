@@ -19,8 +19,12 @@
     주사위의 개수 - map,lambda 사용해서 풀어보기
 
     https://school.programmers.co.kr/learn/courses/30/lessons/120862
-    *최댓값 만들기 - 편법이 사용해서 풀기(이중 for x)
+    *최댓값 만들기 - 편법을 사용해서 풀기(이중 for x)
 
+    https://school.programmers.co.kr/learn/courses/30/lessons/120895
+    인덱스 바꾸기 - 파이썬 답게 swap해보기 
+
+    https://school.programmers.co.kr/learn/courses/30/lessons/181906
     ```
 
 ## 💡 피드백
