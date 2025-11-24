@@ -26,6 +26,11 @@
 
     https://school.programmers.co.kr/learn/courses/30/lessons/181854
     배열의 길이에 따라 다른 연산하기 - 최적화해서 풀어보기
+
+    https://school.programmers.co.kr/learn/courses/30/lessons/181868
+    *공백으로 구분하기2 - 공백 제거하는 함수쓰기
+
+
     ```
 
 ## 💡 피드백
@@ -39,10 +44,13 @@
     ```
     replace는 원본을 바꾸지 않음. sorted()처럼 변수에 대입해 줘야한다
     ```
-
+* ### str.split
+    ```
+    split에 인자 없이 쓰면 공백을 구분자로 취급하고 앞뒤 공백도 무시해줌
+    ```
     
 ### 체크 포인트
-* 5페이지 끝까지 품
+* 6페이지 중간 까지
 
 
 
