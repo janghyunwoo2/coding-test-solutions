@@ -30,7 +30,8 @@
     https://school.programmers.co.kr/learn/courses/30/lessons/181868
     *공백으로 구분하기2 - 공백 제거하는 함수쓰기
 
-
+    https://school.programmers.co.kr/learn/courses/30/lessons/181901
+    배열 만들기 1 - range 활용 잘 해서 풀기
     ```
 
 ## 💡 피드백
@@ -50,7 +51,7 @@
     ```
     
 ### 체크 포인트
-* 6페이지 중간 까지
+* 7페이지 89% 난이도 까지(안 푼 것 5문제 있음)
 
 
 
