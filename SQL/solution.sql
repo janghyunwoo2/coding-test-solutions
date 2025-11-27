@@ -1,26 +1,25 @@
 ```
 ## [프로그래머스 - LV2] 동명 동물 수 찾기
 
-- https://school.programmers.co.kr/learn/courses/30/lessons/59041
-- **날짜:** 2025.10.23
-- **사용한 언어:** MySQL
+https://school.programmers.co.kr/learn/courses/30/lessons/59041
+- **날짜:** 2025.11.27
 
 ## 🔍 문제 요약
-> 이름이 두번 이상 쓰인 이름과 해당 이름이 쓰인 횟수 구하기  
->이름이 없는 건 제외  
->이름 순으로 정렬
+두 번 이상 쓰인 이름과 해당 이름이 쓰인 횟수를 조회
+이름이 없는 동물은 집계에서 제외하며, 결과는 이름 순으로 조회
 
 ## 💡 핵심 아이디어 / 접근 방식
-- 두번 이상-> count, having 사용하기
-- 이름 별로 count 해야함 -> group by 사용
-- 이름 순으로 정렬 order by 사용
+두 번 이상 쓰인 이름 -> Count, GROUP BY, having
+이름  순으로 조회 -> ORDER BY
 
 ## 배운 점
-- count 함수에서 입력 값을 *을 넣는 것과 행을 넣는 것과 결과가 다름  
-*는 null 값도 포함해서 카운트를 하고 컬럼은 null 값은 제외하고 카운트 한다
+
 ```
 ## 💻 코드
-select NAME, count(NAME) as COUNT from ANIMAL_INS 
-group by Name
-having Count >= 2
+SELECT NAME, count(NAME) as COUNT
+FROM ANIMAL_INS
+GROUP BY NAME
+HAVING COUNT >= 2
 order by Name
+
+------------------------------------------------------------------
