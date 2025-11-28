@@ -1,6 +1,6 @@
 # 프로그래머스 SQL 문제 풀이
 
-- [문제 링크](https://school.programmers.co.kr/learn/challenges?order=recent&languages=mysql&page=6)
+- [문제 링크](https://school.programmers.co.kr/learn/challenges?order=recent&languages=mysql&page=5)
 - [코드 링크](./solution.sql)
 - **사용한 언어:** SQL
 
