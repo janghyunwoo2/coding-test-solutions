@@ -34,7 +34,12 @@
     배열 만들기 1 - range 활용 잘 해서 풀기
 
     https://school.programmers.co.kr/learn/courses/30/lessons/181838
-    날짜 비교하기 - 리스트 비교 활용
+    날짜 비교하기 - 리스트 비교 활용하기
+
+    https://school.programmers.co.kr/learn/courses/30/lessons/120888
+    중복된 문자 제거 - 중복제거에 dict 키 활용하기
+
+
     ```
 
 ## 💡 피드백
@@ -68,7 +73,7 @@
 
 
 ### 체크 포인트
-* 8페이지 부터 풀면 됌(정답률 87부터)
+* 9페이지 '2의 영역'부터 풀면 됌
 
 
 
