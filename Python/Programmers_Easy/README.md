@@ -1,6 +1,6 @@
 # 프로그래머스 Lv. 0~1 문제 풀이
 
-- [문제 링크](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=python3&levels=0)
+- [문제 링크](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=11&languages=python3&levels=0)
 - [코드 링크](./solution.ipynb)
 - **사용한 언어:** Python
 
@@ -39,6 +39,11 @@
     https://school.programmers.co.kr/learn/courses/30/lessons/120888
     중복된 문자 제거 - 중복제거에 dict 키 활용하기
 
+    https://school.programmers.co.kr/learn/courses/30/lessons/181902
+    문자 개수 세기 - dict 만드는 여러가지 방법
+
+    https://school.programmers.co.kr/learn/courses/30/lessons/120843
+    *공 던지기 - 리스트 인덱스 %(나머지)으로 반복 순회하기
 
     ```
 
@@ -73,7 +78,7 @@
 
 
 ### 체크 포인트
-* 9페이지 풀면 됌 (왼쪽 오른쪽 부터)
+* 11페이지 풀면 됌
 
 
 
