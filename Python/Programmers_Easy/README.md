@@ -45,6 +45,15 @@
     https://school.programmers.co.kr/learn/courses/30/lessons/120843
     *공 던지기 - 리스트 인덱스 %(나머지)으로 반복 순회하기
 
+    https://school.programmers.co.kr/learn/courses/30/lessons/120883
+    로그인 성공? - 코끼리 연산자+dict로 풀어보기(다른사람이 푼)
+
+    https://school.programmers.co.kr/learn/courses/30/lessons/120882
+    등수 매기기 - 딕셔너리 사용해서 중복 무시하기
+
+    https://school.programmers.co.kr/learn/courses/30/lessons/120871
+    저주의 숫자3 - 코드 하나 위치에 따라 결과가 달라짐
+
     ```
 
 ## 💡 피드백
@@ -75,10 +84,15 @@
     리스트 끼리 비교가능하다.
     예: [1,2] 와 [1,3] 비교하면 첫번째 요소는 1로 같으니 2번째 요소와 비교하면 3으로 2번째 리스트가 크다고 본다.
     ```
+* ### 코끼리 연산자
+    ```
+    조건문이나 반복문 내에서 바로 값을 할당하면서 비교하는 연산자
+    ```
+* 
 
 
 ### 체크 포인트
-* 11페이지 풀면 됌
+* 11페이지 풀면 됌 pcce 5번부터
 
 
 
