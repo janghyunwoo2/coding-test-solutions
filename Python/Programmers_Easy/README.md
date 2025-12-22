@@ -1,6 +1,6 @@
 # 프로그래머스 Lv. 0~1 문제 풀이
 
-- [문제 링크](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=11&languages=python3&levels=0)
+- [문제 링크](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=12&languages=python3&levels=0)
 - [코드 링크](./solution.ipynb)
 - **사용한 언어:** Python
 
@@ -54,6 +54,9 @@
     https://school.programmers.co.kr/learn/courses/30/lessons/120871
     저주의 숫자3 - 코드 하나 위치에 따라 결과가 달라짐
 
+    https://school.programmers.co.kr/learn/courses/30/lessons/120878
+    유한소수 판별하기 - 최대 공약수(함수), 소인수분해
+
     ```
 
 ## 💡 피드백
@@ -92,7 +95,7 @@
 
 
 ### 체크 포인트
-* 11페이지 풀면 됌 pcce 5번부터
+* 12페이지 풀면 됌 
 
 
 
