@@ -57,6 +57,8 @@
     https://school.programmers.co.kr/learn/courses/30/lessons/120878
     유한소수 판별하기 - 최대 공약수(함수), 소인수분해
 
+    * https://school.programmers.co.kr/learn/courses/30/lessons/120866
+    안전지대 - set.update을 활용한 지뢰 탐색
     ```
 
 ## 💡 피드백
@@ -90,12 +92,13 @@
 * ### 코끼리 연산자
     ```
     조건문이나 반복문 내에서 바로 값을 할당하면서 비교하는 연산자
+    주의할 점은 
     ```
 * 
 
 
 ### 체크 포인트
-* 12페이지 풀면 됌 (안전지대 부터)
+* 12페이지 풀면 됌 (주사위 게임 3 이후)
 
 
 
