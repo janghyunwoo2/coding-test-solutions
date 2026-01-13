@@ -59,6 +59,9 @@
 
     * https://school.programmers.co.kr/learn/courses/30/lessons/120866
     안전지대 - set.update을 활용한 지뢰 탐색
+
+    https://school.programmers.co.kr/learn/courses/30/lessons/181832
+    정수를 나선형으로 배치하기 - 인덱스 접근 고 난이도 활용
     ```
 
 ## 💡 피드백
